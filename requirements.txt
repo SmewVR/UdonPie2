@@ -1,2 +1,0 @@
-numpy
-PyInstaller==3.6
