@@ -1,1 +1,0 @@
-mypy udon_compiler.py libs/udon_assembly.py libs/tables.py  --strict-optional --disallow-untyped-calls --strict-equality
