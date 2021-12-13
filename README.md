@@ -1,3 +1,3 @@
 UdonPie Compiler
 
-<h1>🥧</h1> UdonGenerator.py
+<h1>🥧</h1> run UdonGenerator.py
